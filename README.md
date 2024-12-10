@@ -52,6 +52,4 @@ While Random Forest and GAM models showed marginally better performance, the PCA
 
 Feel free to fork this repository and submit pull requests. For major changes, please open an issue first to discuss the proposed changes.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project was developed using an R version older than 4. With R version 4 or newer, you may encounter difficulties running the code, particularly when installing certain packages.
